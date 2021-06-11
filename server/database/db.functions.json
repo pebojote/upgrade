@@ -1,0 +1,9 @@
+{
+  "scripts": [
+    "database/functions/users/find_user_by_email.sql",
+    "database/functions/users/create_user.sql"
+  ],
+  "testDataScripts": [],
+  "buildScriptName": "build.sql",
+  "buildDir": "database/"
+}
